@@ -26,7 +26,7 @@ git clone https://github.com/dracoignis-000/fruitify.com.git
 3.  Navigate to the project directory:
 
 ```
-cd fruit-website
+cd fruitify.com
 ```
 
 3.  Open the index.html file in your preferred web browser.
