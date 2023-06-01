@@ -1,6 +1,6 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Frutify 🌶️
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">This is a website design focused on showcasing different types of fruits. The website includes a homepage, about page, and a fruit catalog page. The website design was created using HTML and CSS.
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">This is a website design focused on showcasing different types of fruits. The website includes a landing page. The website design was created using HTML and CSS.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -20,7 +20,7 @@
 
 1.  Clone the repository from GitHub:
 ```
-git clone https://github.com/yourusername/fruit-website
+git clone https://github.com/dracoignis-000/fruitify.com.git
 ```
 
 3.  Navigate to the project directory:
@@ -38,11 +38,9 @@ cd fruit-website
 
 The website includes the following pages:
 
--   Homepage: This page welcomes users to the website and provides links to the about page and fruit catalog page.
--   About Page: This page provides information about the website and its purpose.
--   Fruit Catalog Page: This page showcases different types of fruits and allows users to view details about each fruit.
+-   Landing Page: This page welcomes users to the website and provides links to the about page and fruit catalog page.
 
-To navigate between pages, use the links in the header of each page.
+
 
 ## Credits
 ---
